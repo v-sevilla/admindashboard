@@ -1,0 +1,11 @@
+{
+    "json.schemas": [],
+    "json.validate.enable": false,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    
+    {
+        "css.lint.unknownAtRules": "ignore"
+    }
+}
